@@ -1,2 +1,0 @@
-# usetrie
-Created with CodeSandbox
